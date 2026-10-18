@@ -18,3 +18,8 @@ Bondi612 es un estudio de desarrollo de software impulsado por IA.
 - Redis
 - Qdrant
 - Docker
+
+## Studio workflow
+
+Reusable agent roles and review practices are documented in [agents/README.md](agents/README.md).
+Project-specific art, gameplay and technical decisions remain in their respective game repositories.
